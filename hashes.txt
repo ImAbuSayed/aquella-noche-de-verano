@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Aquella noche de verano
+
+This log tracks the cryptographic history and versioning for the song **Aquella noche de verano** (aquella-noche-de-verano).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-13T03:22:50.762832 | `v1` | `3601ed2ac20dc0cbc920ad3dbd4ff09a73c6831b0ba0523e2c50e0175e416dda` | `3f303b104e0e1dc328999751038b5a443a959f9691dc6af767a37c8360ae8178` | `2026-06-13_aquella-noche-de-verano-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
