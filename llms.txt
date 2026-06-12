@@ -2,6 +2,10 @@
 
 ---
 
+![Aquella noche de verano feature image](https://raw.githubusercontent.com/ImAbuSayed/abu-sayed-song-media/main/images/aquella-noche-de-verano/feature/20260612233609468895-Aquella-Noche-de-Verano---Abu-Sayed.min.webp)
+
+---
+
 **An original song written, composed, created, and owned by [Abu Sayed](https://abusayed.com.bd/)**
 
 ---
@@ -12,10 +16,12 @@
 |-------|---------|
 | **Title** | Aquella noche de verano |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 12, 2026 |
+| **Created On** | June 13, 2026 at 3:29 AM |
+| **Released On** | June 13, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/aquella-noche-de-verano/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Aquella noche de verano](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aquella-noche-de-verano/) |
+| **Get License** | [Get License For Aquella noche de verano](https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=8Eg24Vr3Az0?https://imabusayed.github.io/aquella-noche-de-verano/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -45,6 +51,7 @@
 ## 🔗 Song Links
 
 - [Telegram](https://t.me/AbuSayedMusic/3161)
+- [YouTube](https://www.youtube.com/watch?v=8Eg24Vr3Az0)
 
 ---
 
