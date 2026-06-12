@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/aquella-noche-de-verano/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Aquella noche de verano](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aquella-noche-de-verano/) |
+| **Get License** | [Commercial Licensing for Aquella noche de verano](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aquella-noche-de-verano/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esa mirada tuya me tiene volando, baby, no miento
+> Aquella noche de verano se quedó en mi pensamiento
+> You know I want it, quiero sentir tu piel rozando lento
+> Bajo la luna de Madrid, perdiendo el conocimiento
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
